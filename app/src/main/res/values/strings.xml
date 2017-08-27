@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnMapFriend</string>
+    <string name="download">Download File</string>
+    <string name="viewdownloads">View Downloads</string>
+</resources>
